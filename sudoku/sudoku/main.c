@@ -5,7 +5,7 @@
 //  Created by Scott and Dryden on 2018-06-28.
 //  Copyright © 2018 Scott and Dryden. All rights reserved.
 //
-//TODO: error handling for thread creation!
+//TODO: error handling for thread creation! Maybe return results differently.
 
 #include <stdio.h>
 #include <stdlib.h>
